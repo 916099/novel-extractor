@@ -22,7 +22,7 @@ python -m pip install -r requirements.txt
 python src/main.py
 ```
 
-也可以在 Windows 上运行 `build.bat`，脚本会安装依赖并生成 `小说提取器.exe`。默认优先使用 `D:\Anaconda\python.exe`，否则会尝试从 `PATH` 查找 Python。构建缓存和中间文件放在 `Codex工作记录` 目录。
+也可以在 Windows 上运行 `build.bat`，脚本会安装依赖并生成 `小说提取器.exe`。默认优先使用 `D:\Anaconda\python.exe`，否则会尝试从 `PATH` 查找 Python。
 
 ## 使用方法
 
